@@ -1,0 +1,11 @@
+body {
+  background-color: green;
+  text-align: center;
+  color: black;
+}
+
+ul {
+  list-style: none;
+  font-weight: strong;
+  font-size: 20px;
+}
